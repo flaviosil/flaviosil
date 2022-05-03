@@ -8,9 +8,9 @@ Previously, I had pleasure to work with awesome people in great projects like Gr
 - Tinkering with interactions on <a href="https://codepen.io/flaviosil">Codepen</a> 🏓
 - See my portfolio at [flaviosil.com](http://flaviosil.com) 🖥️
 - Sharing updates on <a href="https://www.linkedin.com/in/flaviosil/">LinkedIn</a> 💼
-<a href="https://www.twitter.com/flaviosil" target="_blank" rel="noreferrer"><img
+<p><a href="https://www.twitter.com/flaviosil" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/flaviosil?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a></p>
 
 
 ### Skills
